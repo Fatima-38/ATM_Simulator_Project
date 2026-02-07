@@ -1,4 +1,4 @@
-🏧 ATM Simulator
+# 🏧 ATM Simulator
 
 The **ATM Simulator** is a simple banking application that mimics the functionality of a real Automated Teller Machine. It allows users to securely log in using a PIN and perform essential banking operations such as checking their balance, depositing funds, and withdrawing money.
 
