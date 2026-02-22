@@ -1,5 +1,5 @@
 # 🏧 ATM Simulator
 
-The **ATM Simulator** is a simple banking application that mimics the functionality of a real Automated Teller Machine. It allows users to securely log in using a PIN and perform essential banking operations such as checking their balance, depositing funds, and withdrawing money.
+ATM Simulator is a C++ console-based banking system that simulates real ATM operations including balance checking, deposits, withdrawals, and PIN management.
 
-This project was developed to strengthen programming fundamentals and demonstrate key concepts such as user authentication, control structures, error handling, and basic data management.
+The project uses file handling for persistent data storage and allows users to update account information securely, demonstrating structured programming and practical implementation of basic banking functionalities.
